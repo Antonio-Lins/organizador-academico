@@ -6,7 +6,7 @@ este projeto implementa um sistema de gerenciamento acadêmico em linguagem c. e
 - **cadastro de professores, turmas e alunos**   
 - **gerenciamento de disciplinas e notas**: registro e edição de notas dos alunos.  
 - **frequência e controle de aulas**: acompanhamento das aulas ministradas e faltas dos alunos.  
-- **exibição de boletins e médias**: apresentação de informações detalhadas de desempenho individual e por turma.  
+- **exibição de boletins e médias**: apresentação de informações detalhadas de desempenho individual e por turma.   
 
 ## estrutura do projeto  
 o código utiliza um conjunto de `structs` para representar entidades como professores, alunos, turmas e disciplinas. todas as operações principais são realizadas por meio de funções que manipulam arquivos binários para armazenamento persistente dos dados.  
