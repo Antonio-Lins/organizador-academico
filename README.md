@@ -1,7 +1,7 @@
 # organizador acadêmico
 
 este projeto implementa um sistema de gerenciamento acadêmico em linguagem c. ele é projetado para auxiliar professores na administração de turmas, alunos e disciplinas, fornecendo funcionalidades como:   
-
+ 
 ## funcionalidades  
 - **cadastro de professores, turmas e alunos**   
 - **gerenciamento de disciplinas e notas**: registro e edição de notas dos alunos.  
